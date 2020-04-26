@@ -1,0 +1,30 @@
+{
+  "name": "ieee-page",
+  "version": "1.0.0",
+  "description": "Página web para la rama estudiantil IEEE",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamiquispe/IEEE-Page.git"
+  },
+  "keywords": [
+    "ieee",
+    "page",
+    "project"
+  ],
+  "author": "Yami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamiquispe/IEEE-Page/issues"
+  },
+  "homepage": "https://github.com/yamiquispe/IEEE-Page#readme",
+  "dependencies": {
+    "opener": "^1.5.1",
+    "regenerator-runtime": "^0.13.5",
+    "serve": "^11.3.0"
+  }
+}
