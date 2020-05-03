@@ -1,0 +1,44 @@
+@import 'estiloimportado.css';
+
+/* Selector universal */
+* {
+    margin: 0;
+}
+
+/* Selector de etiqueta */
+
+body {
+    background: yellow;
+}
+
+h3 {
+    color: red;
+    margin: 50px;
+}
+
+/* Selector de clase */
+
+.container {
+    width: 300px;
+    height: 200px;
+    background: violet;
+    margin: 30px;
+}
+
+/* Selector id */
+
+#divContainer {
+    width: 500px;
+    height: 100px;
+    background: gray;
+    margin: 20px;
+}
+
+/* Selector de atributo */
+
+section[name] {
+    width: 300px;
+    height: 200px;
+    margin: 15px;
+    background: blueviolet;
+}
