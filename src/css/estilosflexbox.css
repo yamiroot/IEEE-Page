@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: orange;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+    padding: 20px;
+}
+
+#container {
+    width: 500px;
+    height: 500px;
+    background: palegoldenrod;
+    display: flex;
+    justify-content: center;
+    align-content: stretch;
+    flex-wrap: wrap;
+}
+
+article {
+    width: 100px;
+    background: palegreen;
+    margin: 15px;
+}
