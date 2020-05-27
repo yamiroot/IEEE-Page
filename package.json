@@ -2,7 +2,7 @@
   "name": "ieee-page",
   "version": "1.0.0",
   "description": "Página web para la rama estudiantil IEEE",
-  "main": "src/index.html",
+  "main": "src/page.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "serve ./src"
